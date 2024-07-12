@@ -17,7 +17,10 @@ RGB to NRG: <br>
 <hr>
 <h2>Dilation, Erosion Morphology</h2>
 After obtaining binary image through Otsu Thresholding, running dilation, erosion morphology results as the following: <br>
-<img src = "https://github.com/user-attachments/assets/92cb8fce-956f-4faa-8472-d43c9693727e" width="80%" height="80%" title="Morphology">
+
+| <img src = "https://github.com/user-attachments/assets/92cb8fce-956f-4faa-8472-d43c9693727e" width="80%" height="80%" title="Morphology"> |
+|-----|
+| hello |
 
 <hr>
 <h2>Labeling</h2>
