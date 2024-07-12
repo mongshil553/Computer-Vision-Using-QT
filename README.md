@@ -41,3 +41,8 @@ After obtaining binary image through Otsu Thresholding, 4-neighbor and 8-neighbo
 <h2>Histogram Matching</h2>
 <img src = "https://github.com/user-attachments/assets/a34b565d-ac3f-4786-b1b4-8f4995c6dbf8" width="80%" height="80%" title="i)">
 <img src = "https://github.com/user-attachments/assets/2657507e-2624-4aa8-8ee1-34f0a69f8be1" width="80%" height="80%" title="ii)">
+
+<hr>
+<h2>Hough Transform</h2>
+<img src = "https://github.com/user-attachments/assets/b74513f2-636c-400d-9696-f638f8b7d338" width="80%" height="80%" title="Circle Hough">
+<img src = "https://github.com/user-attachments/assets/582fabd2-4d8e-41e0-94e8-4e601582346d" width="80%" height="80%" title="Generalized Hough">
