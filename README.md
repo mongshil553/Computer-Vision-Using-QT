@@ -1,5 +1,5 @@
-# Computer-Vision-Using-QT
-This repository is about Computer Vision without using OpenCV. Source codes are not fully open.
+# Fundamental Computer Vision Using QT
+This repository is about Fundamental Computer Vision Techniques without using OpenCV. Source codes are not fully open.
 
 <hr>
 <h2>Conversion from RGB to HSI and NRG</h2>
