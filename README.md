@@ -16,14 +16,11 @@ RGB to NRG: <br>
 
 <hr>
 <h2>Dilation, Erosion Morphology</h2>
-After obtaining binary image through Otsu Thresholding, running dilation, erosion morphology results as the following: <br>
-
-| <img src = "https://github.com/user-attachments/assets/92cb8fce-956f-4faa-8472-d43c9693727e" width="80%" height="80%" title="Morphology"> |
-|-----|
-| hello |
+After obtaining binary image through Otsu Thresholding, running dilation, erosion morphology results as the following: <br><br>
+<img src = "https://github.com/user-attachments/assets/040a2268-f962-4ae0-94f1-4817a4b4a00e" width="80%" height="80%" title="Morphology">
 
 <hr>
 <h2>Labeling</h2>
-After obtaining binary image through Otsu Thresholding, 4-neighbor and 8-neighbor labeling with different size mask results as the following: <br>
-
-![image](https://github.com/user-attachments/assets/e2df817c-8d55-4a45-b13c-3f459ba29a6c)
+After obtaining binary image through Otsu Thresholding, 4-neighbor and 8-neighbor labeling with different size mask results as the following: <br><br>
+<img src = "https://github.com/user-attachments/assets/6422f1af-e05e-476c-90f1-d3b917c0f1c9" width="80%" height="80%" title="Dilation Labeling">
+<img src = "https://github.com/user-attachments/assets/d550439e-272f-469b-ab55-a85931f7a4ae" width="80%" height="80%" title="Erosion Labeling">
