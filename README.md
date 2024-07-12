@@ -24,3 +24,20 @@ After obtaining binary image through Otsu Thresholding, running dilation, erosio
 After obtaining binary image through Otsu Thresholding, 4-neighbor and 8-neighbor labeling with different size mask results as the following: <br><br>
 <img src = "https://github.com/user-attachments/assets/6422f1af-e05e-476c-90f1-d3b917c0f1c9" width="80%" height="80%" title="Dilation Labeling">
 <img src = "https://github.com/user-attachments/assets/d550439e-272f-469b-ab55-a85931f7a4ae" width="80%" height="80%" title="Erosion Labeling">
+
+<hr>
+<h2>Opening, Closing Operation</h2>
+<img src = "https://github.com/user-attachments/assets/ed458ebf-07c9-422e-abcc-c5fd07b9d3af" width="80%" height="80%" title="Operation">
+
+<hr>
+<h2>Boundary Extraction</h2>
+<img src = "https://github.com/user-attachments/assets/c0917c89-c941-4803-bbc4-a8e4752eb77c" width="80%" height="80%" title="Boundary Extraction">
+
+<hr>
+<h2>Histogram Equalization</h2>
+<img src = "https://github.com/user-attachments/assets/5cfdacf2-d452-417e-9517-a40b37217081" width="80%" height="80%" title="Histogram Equalization">
+
+<hr>
+<h2>Histogram Matching</h2>
+<img src = "https://github.com/user-attachments/assets/a34b565d-ac3f-4786-b1b4-8f4995c6dbf8" width="80%" height="80%" title="i)">
+<img src = "https://github.com/user-attachments/assets/2657507e-2624-4aa8-8ee1-34f0a69f8be1" width="80%" height="80%" title="ii)">
